@@ -5,7 +5,7 @@
 <!-- Me <3 Anthony -->
 <p align="center">
   <a href='https://carrot.dev'>
-    <img src='http://img.shields.io/static/v1?style=flat&label=&message=carrot.dev&color=ff69b4&logo=netlify&logoColor=white' />
+    <img src='http://img.shields.io/static/v1?style=flat&label=&message=carrot.dev&color=f368e0&logo=netlify&logoColor=white' />
   </a>
   <a href='https://github.com/TheOneKevin?tab=repositories&q=archived%3Afalse+NOT+TheOneKevin&type=&language='>
     <img src='http://img.shields.io/static/v1?style=flat&label=&message=Projects&color=gray&logo=github' />
