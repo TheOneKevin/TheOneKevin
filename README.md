@@ -3,7 +3,7 @@
 **Shoutouts :mega:** to my amazing friend [@Anthonykung](https://github.com/Anthonykung)
 
 <!-- Me <3 Anthony -->
-<p align="center">
+<!--<p align="center">
   <a href='https://github.com/TheOneKevin?tab=repositories&q=archived%3Afalse+NOT+TheOneKevin&type=&language='>
     <img src='http://img.shields.io/static/v1?style=flat&label=&message=Projects&color=gray&logo=github' />
   </a>
@@ -16,4 +16,4 @@
   <a href='https://github.com/HomebrewSiliconClub/Processor'>
     <img src='http://img.shields.io/static/v1?style=flat&label=HSC&message=Processor&color=blue&logo=' />
   </a>
-</p>
+</p>-->
