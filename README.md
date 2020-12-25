@@ -18,7 +18,7 @@
   <a href='https://github.com/TheOneKevin/pine16'>
     <img src='http://img.shields.io/static/v1?style=flat&label=2020&message=pine16&color=blue&logo=' />
   </a>
-  <a href='https://github.com/HomebrewSiliconClub/Processor'>
-    <img src='http://img.shields.io/static/v1?style=flat&label=HSC&message=Processor&color=blue&logo=' />
+  <a href='https://github.com/hsc-latte/caravel-hs32core'>
+    <img src='http://img.shields.io/static/v1?style=flat&label=MPW1&message=caravel-hs32core&color=blue&logo=' />
   </a>
 </p>
