@@ -1,6 +1,8 @@
 **Hi there :wave:** I'm Kevin :carrot: and currently in my first year at the University of Waterloo studying computer science.
 
-**Currently working on :books:** digital circuit design, formal verification, operating system design, liking web development :fearful:
+**Working on 💪🏻** digital circuit design, formal verification, operating system design, web development
+
+**Learning about :book:** intuitionistic logic and type theory
 
 **Shoutouts :mega:** to my amazing friend [@Anthonykung](https://github.com/Anthonykung)
 
