@@ -4,9 +4,6 @@
 
 **Learning about** :book: intuitionistic logic, type theory and formal verification
 
-**Shoutouts** :mega: to my amazing friend [@Anthonykung](https://github.com/Anthonykung)
-
-<!-- Me <3 Anthony -->
 <p align="center">
   <a href='https://carrot.dev'>
     <img src='http://img.shields.io/static/v1?style=flat&label=&message=carrot.dev&color=ff69b4&logo=netlify&logoColor=white' />
@@ -17,8 +14,8 @@
   <a href='https://github.com/TheOneKevin/cxkernel'>
     <img src='http://img.shields.io/static/v1?style=flat&label=2016&message=cxkernel&color=blue&logo=' />
   </a>
-  <a href='https://github.com/TheOneKevin/pine16'>
-    <img src='http://img.shields.io/static/v1?style=flat&label=2020&message=pine16&color=blue&logo=' />
+  <a href='[https://github.com/TheOneKevin/pine16](https://github.com/TheOneKevin/hs32-llvm-backend)'>
+    <img src='http://img.shields.io/static/v1?style=flat&label=2020&message=hs32-llvm-backend&color=blue&logo=' />
   </a>
   <a href='https://github.com/hsc-latte/caravel-hs32core'>
     <img src='http://img.shields.io/static/v1?style=flat&label=MPW1&message=caravel-hs32core&color=blue&logo=' />
