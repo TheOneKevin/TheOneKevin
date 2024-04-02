@@ -1,8 +1,8 @@
 **Hi there** :wave: I'm Kevin :carrot: and an undergraduate at the University of Waterloo studying computer science :computer:
 
-**Currently working on** 💪🏻 digital circuit design, microkernels, web development and improving my piano skills :musical_keyboard:
+**Currently working on** 💪🏻 compilers, digital circuit design, microkernels, and improving my piano skills :musical_keyboard:
 
-**Learning about** :book: intuitionistic logic, type theory and formal verification
+**Learning about** :book: compiler optimization, type theory and quantum information theory
 
 <p align="center">
   <a href='https://carrot.dev'>
