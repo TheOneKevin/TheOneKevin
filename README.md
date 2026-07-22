@@ -1,4 +1,4 @@
-**Hi there** :wave: I'm Kevin :carrot: and an undergraduate at the University of Waterloo studying computer science :computer:
+**Hi there** :wave: I'm Kevin :carrot: and an alumni of the University of Waterloo, BCS :computer:
 
 **Currently working on** 💪🏻 compilers, digital circuit design, microkernels, and improving my piano skills :musical_keyboard:
 
