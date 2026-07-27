@@ -4,7 +4,7 @@
 
 **Learning about** :book: compiler optimization, type theory and quantum information theory
 
-<p align="center">
+<div align="center">
   <a href='https://carrot.dev'>
     <img src='http://img.shields.io/static/v1?style=flat&label=&message=carrot.dev&color=ff69b4&logo=netlify&logoColor=white' />
   </a>
@@ -23,4 +23,4 @@
   <a href='https://github.com/theonekevin/rtkernel'>
     <img src='http://img.shields.io/static/v1?style=flat&label=2025&message=rt%2Fkernel&color=d86bff&logo=' />
   </a>
-</p>
+</div>
